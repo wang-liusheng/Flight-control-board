@@ -1,0 +1,75 @@
+Change Component DesignItemId : Designator=T2 Old DesignItemId= New DesignItemId=47UF16V
+Change Component DesignItemId : Designator=T3 Old DesignItemId= New DesignItemId=47UF16V
+Change Component DesignItemId : Designator=LED1 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=LED2 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=LED3 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=LED4 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=X1 Old DesignItemId= New DesignItemId=ÌÕ´É¾§Õñ
+Change Component DesignItemId : Designator=R11 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=R12 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=R13 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=R14 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=R15 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=R16 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=R17 Old DesignItemId=A New DesignItemId=ANO-1K-ÅÅ×è
+Change Component DesignItemId : Designator=U2 Old DesignItemId=ANO-U New DesignItemId=ANO-USB
+Change Component DesignItemId : Designator=U11 Old DesignItemId=MIC52 New DesignItemId=MIC5219
+Change Component DesignItemId : Designator=P1 Old DesignItemId=SH1.0-1 New DesignItemId=SH1.0-10P
+Change Component DesignItemId : Designator=U9 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=U3 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U4 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U5 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U6 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U7 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U8 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U10 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U15 Old DesignItemId=STM32F407VGT New DesignItemId=STM32F407VGT6!
+Change Component DesignItemId : Designator=T4 Old DesignItemId=TC10 New DesignItemId=TC10UF
+Change Component DesignItemId : Designator=T1 Old DesignItemId=TC100 New DesignItemId=TC100UF
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TPS54 New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=W1 Old DesignItemId=W25Q New DesignItemId=W25Q32
+Change Component Footprint: Designator=C1 Old Footprint=0805R New Footprint=2512C
+Change Component Description : Designator=R2 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R3 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R4 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R5 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R6 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R7 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R8 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R9 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R10 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R18 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R19 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R20 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=C2 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C3 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C4 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C5 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C6 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C7 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C8 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=D1 Old Description= New Description=ÌùÆ¬Ð¤ÌØ»ù¶þ¼«¹Ü
+Change Component Description : Designator=D2 Old Description= New Description=ÌùÆ¬Ð¤ÌØ»ù¶þ¼«¹Ü
+Change Component Description : Designator=D3 Old Description= New Description=ÌùÆ¬Ð¤ÌØ»ù¶þ¼«¹Ü
+Added Component: Designator=RN1(1KÅÅ×è)
+Added Component: Designator=RN2(1KÅÅ×è)
+Added Component: Designator=RN3(1KÅÅ×è)
+Added Component: Designator=RN4(1KÅÅ×è)
+Added Component: Designator=RN5(1KÅÅ×è)
+Added Component: Designator=RN6(1KÅÅ×è)
+Added Component: Designator=RN7(1KÅÅ×è)
+Added Pin To Net: NetName=USART1_TX Pin=RN1-1
+Added Pin To Net: NetName=USART1_RX Pin=RN1-2
+Added Pin To Net: NetName=USART2_TX Pin=RN1-3
+Added Pin To Net: NetName=USART2_RX Pin=RN1-4
+Added Pin To Net: NetName=USART2_RX_I Pin=RN1-5
+Added Pin To Net: NetName=USART2_TX_I Pin=RN1-6
+Added Pin To Net: NetName=USART1_RX_I Pin=RN1-7
+Added Pin To Net: NetName=USART1_TX_I Pin=RN1-8
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN1 1KÅÅ×è
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN2 1KÅÅ×è
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN3 1KÅÅ×è
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN4 1KÅÅ×è
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN5 1KÅÅ×è
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN6 1KÅÅ×è
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RN7 1KÅÅ×è

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC_2S~6S Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Added Component: Designator=U?(STM32F407VGT6!)
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=VCC_2S~6S Pin=-1
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=VCC_2S~6S Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U? STM32F407VGT6!

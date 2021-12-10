@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=USART4_RX Pin=R14-1
+Removed Pin From Net: NetName=USART4_TX Pin=R14-2
+Removed Pin From Net: NetName=USART3_RX Pin=R14-3
+Removed Pin From Net: NetName=USART3_TX Pin=R14-4
+Removed Pin From Net: NetName=USART3_TX_I Pin=R14-5
+Removed Pin From Net: NetName=USART3_RX_I Pin=R14-6
+Removed Pin From Net: NetName=USART4_TX_I Pin=R14-7
+Removed Pin From Net: NetName=USART4_RX_I Pin=R14-8
+Added Pin To Net: NetName=USART3_RX Pin=R14-1
+Added Pin To Net: NetName=USART3_TX Pin=R14-2
+Added Pin To Net: NetName=USART4_RX Pin=R14-3
+Added Pin To Net: NetName=USART4_TX Pin=R14-4
+Added Pin To Net: NetName=USART4_TX_I Pin=R14-5
+Added Pin To Net: NetName=USART4_RX_I Pin=R14-6
+Added Pin To Net: NetName=USART3_TX_I Pin=R14-7
+Added Pin To Net: NetName=USART3_RX_I Pin=R14-8
+Added Member To Class: ClassName=·É¿Ø°å Member=Component Q1 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component Q2 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component Q3 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R8 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R9 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R10 50R
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R25 50R
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R26 50R
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R27 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R28 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R29 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R30 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RGB 

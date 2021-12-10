@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=R59-2
+Removed Pin From Net: NetName=GND Pin=R60-2
+Removed Pin From Net: NetName=GND Pin=R61-2
+Removed Pin From Net: NetName=GND Pin=R62-2
+Added Component: Designator=LX_IMU(LX_IMU)
+Added Component: Designator=P2_IMU(P2_IMU)
+Added Pin To Net: NetName=GND Pin=LX_IMU-1
+Added Pin To Net: NetName=VCC_5.0V Pin=LX_IMU-2
+Added Pin To Net: NetName=OTG_FS_DM Pin=LX_IMU-3
+Added Pin To Net: NetName=OTG_FS_DP Pin=LX_IMU-4
+Added Pin To Net: NetName=USART5_TX_I Pin=LX_IMU-5
+Added Pin To Net: NetName=USART5_RX_I Pin=LX_IMU-6
+Added Pin To Net: NetName=USART_IMU_TX Pin=LX_IMU-7
+Added Pin To Net: NetName=USART_IMU_RX Pin=LX_IMU-8
+Added Pin To Net: NetName=GND Pin=P2_IMU-1
+Added Pin To Net: NetName=VCC_5.0V Pin=P2_IMU-2
+Added Pin To Net: NetName=TIM10_CH1 Pin=P2_IMU-3
+Added Pin To Net: NetName=SPI2_MOSI Pin=P2_IMU-4
+Added Pin To Net: NetName=SPI2_MISO Pin=P2_IMU-5
+Added Pin To Net: NetName=SPI2_CLK Pin=P2_IMU-6
+Added Pin To Net: NetName=GYR_INT Pin=P2_IMU-7
+Added Pin To Net: NetName=SPI2_CS1 Pin=P2_IMU-8
+Added Pin To Net: NetName=SPI2_CS2 Pin=P2_IMU-9
+Added Pin To Net: NetName=SPI2_CS3 Pin=P2_IMU-10
+Added Pin To Net: NetName=SPI2_NSS Pin=P2_IMU-11
+Added Pin To Net: NetName=GND Pin=P2_IMU-12
+Added Pin To Net: NetName=NetR55_1 Pin=R59-2
+Added Pin To Net: NetName=NetR56_1 Pin=R60-2
+Added Pin To Net: NetName=NetR57_1 Pin=R61-2
+Added Pin To Net: NetName=NetR58_1 Pin=R62-2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component LX_IMU
+Added Member To Class: ClassName=·É¿Ø°å Member=Component P1 SH1.0-10P
+Added Member To Class: ClassName=·É¿Ø°å Member=Component P2_IMU
+Added Member To Class: ClassName=·É¿Ø°å Member=Component sh1.0-6p
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U2 ANO-USB
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U3 USART1
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U4 USART2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U5 USART3
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U6 USART4
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U7 USART5
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U8 SBUS
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U9 PPM
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U10 SWD

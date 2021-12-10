@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VCC_5.0V Pin=0.1uf50v-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetR13_2 Pin=R13-2
+Change Component Comment : Designator=0.1uf50v Old Comment=C2 New Comment=0.1uf50v
+Change Component Comment : Designator=0.1uf50v Old Comment=C3 New Comment=0.1uf50v
+Change Component Comment : Designator=4.7uf16v Old Comment=C4 New Comment=4.7uf16v
+Change Component Comment : Designator=1uf10v Old Comment=C5 New Comment=1uf10v
+Change Component Comment : Designator=0.1uf50v Old Comment=C6 New Comment=0.1uf50v
+Change Component Comment : Designator=0.1uf50v Old Comment=C7 New Comment=0.1uf50v
+Change Component Comment : Designator=0.1uf50v Old Comment=C8 New Comment=0.1uf50v
+Change Component Designator: OldDesignator=0.1uf50v NewDesignator=C2
+Change Component Designator: OldDesignator=0.1uf50v NewDesignator=C3
+Change Component Designator: OldDesignator=0.1uf50v NewDesignator=C6
+Change Component Designator: OldDesignator=0.1uf50v NewDesignator=C7
+Change Component Designator: OldDesignator=0.1uf50v NewDesignator=C8
+Change Component Designator: OldDesignator=1uf10v NewDesignator=C5
+Change Component Designator: OldDesignator=4.7uf16v NewDesignator=C4
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC_5.0V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=BOOT1 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=TIM1_CH1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=TIM1_CH2 Pin=R13-2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U11-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U9-49
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U9-73
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U9-14
+Added Net: Name=NetC8_1
+Added Member To Class: ClassName=·É¿Ø°å Member=Component C2 0.1uf50v
+Added Member To Class: ClassName=·É¿Ø°å Member=Component C3 0.1uf50v
+Added Member To Class: ClassName=·É¿Ø°å Member=Component C6 0.1uf50v
+Added Member To Class: ClassName=·É¿Ø°å Member=Component C7 0.1uf50v
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R3 15K

@@ -1,0 +1,437 @@
+Removed Pin From Net: NetName=GND Pin=G-1
+Removed Pin From Net: NetName=GND Pin=G-2
+Removed Pin From Net: NetName=GND Pin=G-3
+Removed Pin From Net: NetName=GND Pin=G-4
+Removed Pin From Net: NetName=PWMOUT_1 Pin=P4-1-1
+Removed Pin From Net: NetName=PWMOUT_2 Pin=P4-1-2
+Removed Pin From Net: NetName=PWMOUT_3 Pin=P4-1-3
+Removed Pin From Net: NetName=PWMOUT_4 Pin=P4-1-4
+Removed Pin From Net: NetName=USART2_RX Pin=R11-1
+Removed Pin From Net: NetName=USART2_TX Pin=R11-2
+Removed Pin From Net: NetName=USART1_RX Pin=R11-3
+Removed Pin From Net: NetName=USART1_TX Pin=R11-4
+Removed Pin From Net: NetName=USART1_TX_I Pin=R11-5
+Removed Pin From Net: NetName=USART1_RX_I Pin=R11-6
+Removed Pin From Net: NetName=USART2_TX_I Pin=R11-7
+Removed Pin From Net: NetName=USART2_RX_I Pin=R11-8
+Removed Pin From Net: NetName=TIM1_CH4 Pin=R13-1
+Removed Pin From Net: NetName=TIM1_CH3 Pin=R13-2
+Removed Pin From Net: NetName=TIM1_CH2 Pin=R13-3
+Removed Pin From Net: NetName=TIM1_CH1 Pin=R13-4
+Removed Pin From Net: NetName=PWMOUT_4 Pin=R13-5
+Removed Pin From Net: NetName=PWMOUT_3 Pin=R13-6
+Removed Pin From Net: NetName=PWMOUT_2 Pin=R13-7
+Removed Pin From Net: NetName=PWMOUT_1 Pin=R13-8
+Removed Pin From Net: NetName=USART3_RX Pin=R14-1
+Removed Pin From Net: NetName=USART3_TX Pin=R14-2
+Removed Pin From Net: NetName=USART4_RX Pin=R14-3
+Removed Pin From Net: NetName=USART4_TX Pin=R14-4
+Removed Pin From Net: NetName=USART4_TX_I Pin=R14-5
+Removed Pin From Net: NetName=USART4_RX_I Pin=R14-6
+Removed Pin From Net: NetName=USART3_TX_I Pin=R14-7
+Removed Pin From Net: NetName=USART3_RX_I Pin=R14-8
+Removed Pin From Net: NetName=SWCLK Pin=R15-1
+Removed Pin From Net: NetName=SWDIO Pin=R15-2
+Removed Pin From Net: NetName=USART5_RX Pin=R15-3
+Removed Pin From Net: NetName=USART5_TX Pin=R15-4
+Removed Pin From Net: NetName=USART5_TX_I Pin=R15-5
+Removed Pin From Net: NetName=USART5_RX_I Pin=R15-6
+Removed Pin From Net: NetName=SWDIO_I Pin=R15-7
+Removed Pin From Net: NetName=SWCLK_I Pin=R15-8
+Removed Pin From Net: NetName=TIM3_CH4 Pin=R16-1
+Removed Pin From Net: NetName=TIM3_CH3 Pin=R16-2
+Removed Pin From Net: NetName=TIM3_CH2 Pin=R16-3
+Removed Pin From Net: NetName=TIM3_CH1 Pin=R16-4
+Removed Pin From Net: NetName=PPM_IN Pin=R16-5
+Removed Pin From Net: NetName=PWMIN_2 Pin=R16-6
+Removed Pin From Net: NetName=PWMIN_3 Pin=R16-7
+Removed Pin From Net: NetName=PWMIN_4 Pin=R16-8
+Removed Pin From Net: NetName=TIM4_CH4 Pin=R17-1
+Removed Pin From Net: NetName=TIM4_CH3 Pin=R17-2
+Removed Pin From Net: NetName=TIM4_CH2 Pin=R17-3
+Removed Pin From Net: NetName=TIM4_CH1 Pin=R17-4
+Removed Pin From Net: NetName=PWMIN_5 Pin=R17-5
+Removed Pin From Net: NetName=PWMIN_6 Pin=R17-6
+Removed Pin From Net: NetName=PWMIN_7 Pin=R17-7
+Removed Pin From Net: NetName=PWMIN_8 Pin=R17-8
+Removed Pin From Net: NetName=GND Pin=SBUS-1
+Removed Pin From Net: NetName=SUBS_IN Pin=SBUS-3
+Removed Pin From Net: NetName=VCC_5.0V Pin=V-1
+Removed Pin From Net: NetName=VCC_5.0V Pin=V-2
+Removed Pin From Net: NetName=VCC_5.0V Pin=V-3
+Removed Pin From Net: NetName=VCC_5.0V Pin=V-4
+Removed Member From Class: ClassName=飞控板 Member=G
+Removed Member From Class: ClassName=飞控板 Member=R11
+Removed Member From Class: ClassName=飞控板 Member=R13
+Removed Member From Class: ClassName=飞控板 Member=R14
+Removed Member From Class: ClassName=飞控板 Member=R15
+Removed Member From Class: ClassName=飞控板 Member=R16
+Removed Member From Class: ClassName=飞控板 Member=R17
+Removed Member From Class: ClassName=飞控板 Member=V
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=1N5817-5819SMD
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=1N5817-5819SMD
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=1N5817-5819SMD
+Change Component DesignItemId : Designator=USB Old DesignItemId= New DesignItemId=ANO-USB
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T1 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T2 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T3 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T4 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=H4 Old DesignItemId= New DesignItemId=Header 8
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=INDUCTOR
+Change Component DesignItemId : Designator=LED1 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=U11 Old DesignItemId= New DesignItemId=MIC5219
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R19 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R20 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R25 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R26 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R27 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R28 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R29 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R30 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R31 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R32 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R33 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=RGB Old DesignItemId= New DesignItemId=RGB
+Change Component DesignItemId : Designator=PPM Old DesignItemId= New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=SBUS Old DesignItemId= New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=SWD Old DesignItemId= New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART1 Old DesignItemId= New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART2 Old DesignItemId= New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART3 Old DesignItemId= New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART4 Old DesignItemId= New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART5 Old DesignItemId= New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=VCC_IN Old DesignItemId= New DesignItemId=sh1.0-6p
+Change Component DesignItemId : Designator=PWM_IN Old DesignItemId= New DesignItemId=SH1.0-10P
+Change Component DesignItemId : Designator=Q1 Old DesignItemId= New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q2 Old DesignItemId= New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q3 Old DesignItemId= New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q4 Old DesignItemId= New DesignItemId=SI2310
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=W1 Old DesignItemId= New DesignItemId=W25Q32
+Change Component DesignItemId : Designator=X1 Old DesignItemId= New DesignItemId=陶瓷晶振
+Change Component DesignItemId : Designator=U15 Old DesignItemId=ST New DesignItemId=STM32F407VGT6=
+Change Component Designator: OldDesignator=PPM NewDesignator=U9
+Change Component Designator: OldDesignator=PWM_IN NewDesignator=P1
+Change Component Designator: OldDesignator=SBUS NewDesignator=U8
+Change Component Designator: OldDesignator=SWD NewDesignator=U10
+Change Component Designator: OldDesignator=USART1 NewDesignator=U3
+Change Component Designator: OldDesignator=USART2 NewDesignator=U4
+Change Component Designator: OldDesignator=USART3 NewDesignator=U5
+Change Component Designator: OldDesignator=USART4 NewDesignator=U6
+Change Component Designator: OldDesignator=USART5 NewDesignator=U7
+Change Component Designator: OldDesignator=USB NewDesignator=U2
+Change Component Designator: OldDesignator=VCC_IN NewDesignator=sh1.0-6p
+Change Component Description : Designator=R2 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R3 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R4 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R5 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R6 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R7 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R8 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R9 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R10 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R18 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R19 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R20 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R25 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R26 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R27 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R28 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R29 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R30 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R31 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R32 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R33 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=H4 Old Description= New Description=Header, 8-Pin
+Change Component Description : Designator=L1 Old Description= New Description=INDUCTOR
+Change Component Description : Designator=RGB Old Description= New Description=RGB
+Change Component Description : Designator=C1 Old Description= New Description=无极性电容
+Change Component Description : Designator=C2 Old Description= New Description=无极性电容
+Change Component Description : Designator=C3 Old Description= New Description=无极性电容
+Change Component Description : Designator=C4 Old Description= New Description=无极性电容
+Change Component Description : Designator=C5 Old Description= New Description=无极性电容
+Change Component Description : Designator=C6 Old Description= New Description=无极性电容
+Change Component Description : Designator=C7 Old Description= New Description=无极性电容
+Change Component Description : Designator=C8 Old Description= New Description=无极性电容
+Change Component Description : Designator=T1 Old Description= New Description=无极性电容
+Change Component Description : Designator=T2 Old Description= New Description=无极性电容
+Change Component Description : Designator=T3 Old Description= New Description=无极性电容
+Change Component Description : Designator=T4 Old Description= New Description=无极性电容
+Change Component Description : Designator=D1 Old Description= New Description=贴片肖特基二极管
+Change Component Description : Designator=D2 Old Description= New Description=贴片肖特基二极管
+Change Component Description : Designator=D3 Old Description= New Description=贴片肖特基二极管
+Change Component Library : Designator=R2 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R3 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R4 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R5 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R6 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R7 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R8 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R9 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R10 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R18 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R19 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R20 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R25 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R26 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R27 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R28 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R29 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R30 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R31 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R32 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=R33 Old Library= New Library=0.电阻电容电感.IntLib
+Change Component Library : Designator=RGB Old Library= New Library=RGB灯.IntLib
+Change Component Library : Designator=C1 Old Library= New Library=电容.IntLib
+Change Component Library : Designator=T1 Old Library= New Library=电容.IntLib
+Change Component Library : Designator=T2 Old Library= New Library=电容.IntLib
+Change Component Library : Designator=T3 Old Library= New Library=电容.IntLib
+Change Component Library : Designator=T4 Old Library= New Library=电容.IntLib
+Change Component Library : Designator=L1 Old Library= New Library=电感.IntLib
+Change Component Library : Designator=X1 Old Library= New Library=陶瓷晶振.IntLib
+Change Component Library : Designator=LED1 Old Library=1. New Library=1.二极管.IntLib
+Change Component Library : Designator=D1 Old Library=1.二极管.I New Library=1.二极管.IntLib
+Change Component Library : Designator=D2 Old Library=1.二极管.I New Library=1.二极管.IntLib
+Change Component Library : Designator=D3 Old Library=1.二极管.I New Library=1.二极管.IntLib
+Change Component Library : Designator=H4 Old Library=9.? New Library=9.接插件 连接器.IntLib
+Change Component Library : Designator=U2 Old Library=ANO-USB.In New Library=ANO-USB.IntLib
+Change Component Library : Designator=U11 Old Library=MIC5219.In New Library=MIC5219.IntLib
+Change Component Library : Designator=U9 Old Library=SH1.0-3P.In New Library=SH1.0-3P.IntLib
+Change Component Library : Designator=U8 Old Library=SH1.0-3P.In New Library=SH1.0-3P.IntLib
+Change Component Library : Designator=U10 Old Library=SH1.0-4P.In New Library=SH1.0-4P.IntLib
+Change Component Library : Designator=U3 Old Library=SH1.0-4P.In New Library=SH1.0-4P.IntLib
+Change Component Library : Designator=U4 Old Library=SH1.0-4P.In New Library=SH1.0-4P.IntLib
+Change Component Library : Designator=U5 Old Library=SH1.0-4P.In New Library=SH1.0-4P.IntLib
+Change Component Library : Designator=U6 Old Library=SH1.0-4P.In New Library=SH1.0-4P.IntLib
+Change Component Library : Designator=U7 Old Library=SH1.0-4P.In New Library=SH1.0-4P.IntLib
+Change Component Library : Designator=sh1.0-6p Old Library=sh1.0-6p.In New Library=sh1.0-6p.IntLib
+Change Component Library : Designator=P1 Old Library=SH1.0-10P.IntL New Library=SH1.0-10P.IntLib
+Change Component Library : Designator=Q1 Old Library=SI2310. New Library=SI2310.IntLib
+Change Component Library : Designator=Q2 Old Library=SI2310. New Library=SI2310.IntLib
+Change Component Library : Designator=Q3 Old Library=SI2310. New Library=SI2310.IntLib
+Change Component Library : Designator=Q4 Old Library=SI2310. New Library=SI2310.IntLib
+Change Component Library : Designator=U1 Old Library=TPS5430.In New Library=TPS5430.IntLib
+Change Component Library : Designator=W1 Old Library=W25Q32. New Library=W25Q32.IntLib
+Change Component Library : Designator=C2 Old Library=电 New Library=电容.IntLib
+Change Component Library : Designator=C3 Old Library=电 New Library=电容.IntLib
+Change Component Library : Designator=C4 Old Library=电 New Library=电容.IntLib
+Change Component Library : Designator=C5 Old Library=电 New Library=电容.IntLib
+Change Component Library : Designator=C6 Old Library=电 New Library=电容.IntLib
+Change Component Library : Designator=C7 Old Library=电 New Library=电容.IntLib
+Change Component Library : Designator=C8 Old Library=电 New Library=电容.IntLib
+Added Component: Designator=H1(HDR1X4)
+Added Component: Designator=H2(HDR1X4)
+Added Component: Designator=H3(HDR1X4)
+Added Component: Designator=LX_IMU(LX_IMU)
+Added Component: Designator=P2_IMU(P2_IMU)
+Added Component: Designator=R31(0805R)
+Added Component: Designator=R32(0805R)
+Added Component: Designator=R33(0805R)
+Added Component: Designator=R34(0805R)
+Added Component: Designator=R35(0805R)
+Added Component: Designator=R36(0805R)
+Added Component: Designator=R37(0805R)
+Added Component: Designator=R38(0805R)
+Added Component: Designator=R39(0805R)
+Added Component: Designator=R40(0805R)
+Added Component: Designator=R41(0805R)
+Added Component: Designator=R42(0805R)
+Added Component: Designator=R43(0805R)
+Added Component: Designator=R44(0805R)
+Added Component: Designator=R45(0805R)
+Added Component: Designator=R46(0805R)
+Added Component: Designator=R47(0805R)
+Added Component: Designator=R48(0805R)
+Added Component: Designator=R49(0805R)
+Added Component: Designator=R50(0805R)
+Added Component: Designator=R51(0805R)
+Added Component: Designator=R52(0805R)
+Added Component: Designator=R53(0805R)
+Added Component: Designator=R54(0805R)
+Added Component: Designator=R55(0805R)
+Added Component: Designator=R56(0805R)
+Added Component: Designator=R57(0805R)
+Added Component: Designator=R58(0805R)
+Added Component: Designator=R59(0805R)
+Added Component: Designator=R60(0805R)
+Added Component: Designator=R61(0805R)
+Added Component: Designator=R62(0805R)
+Added Component: Designator=S11(拨码开关4P)
+Added Pin To Net: NetName=PWMOUT_1 Pin=H1-1
+Added Pin To Net: NetName=PWMOUT_2 Pin=H1-2
+Added Pin To Net: NetName=PWMOUT_3 Pin=H1-3
+Added Pin To Net: NetName=PWMOUT_4 Pin=H1-4
+Added Pin To Net: NetName=VCC_5.0V Pin=H2-1
+Added Pin To Net: NetName=VCC_5.0V Pin=H2-2
+Added Pin To Net: NetName=VCC_5.0V Pin=H2-3
+Added Pin To Net: NetName=VCC_5.0V Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H3-3
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=GND Pin=LX_IMU-1
+Added Pin To Net: NetName=VCC_5.0V Pin=LX_IMU-2
+Added Pin To Net: NetName=OTG_FS_DM Pin=LX_IMU-3
+Added Pin To Net: NetName=OTG_FS_DP Pin=LX_IMU-4
+Added Pin To Net: NetName=USART5_TX_I Pin=LX_IMU-5
+Added Pin To Net: NetName=USART5_RX_I Pin=LX_IMU-6
+Added Pin To Net: NetName=GND Pin=P2_IMU-1
+Added Pin To Net: NetName=VCC_5.0V Pin=P2_IMU-2
+Added Pin To Net: NetName=SPI2_MOSI Pin=P2_IMU-4
+Added Pin To Net: NetName=SPI2_MISO Pin=P2_IMU-5
+Added Pin To Net: NetName=SPI2_CLK Pin=P2_IMU-6
+Added Pin To Net: NetName=SPI2_CS1 Pin=P2_IMU-8
+Added Pin To Net: NetName=SPI2_CS2 Pin=P2_IMU-9
+Added Pin To Net: NetName=SPI2_CS3 Pin=P2_IMU-10
+Added Pin To Net: NetName=SPI2_NSS Pin=P2_IMU-11
+Added Pin To Net: NetName=GND Pin=P2_IMU-12
+Added Pin To Net: NetName=USART1_TX Pin=R31-1
+Added Pin To Net: NetName=USART1_TX_I Pin=R31-2
+Added Pin To Net: NetName=USART1_RX Pin=R32-1
+Added Pin To Net: NetName=USART1_RX_I Pin=R32-2
+Added Pin To Net: NetName=USART2_TX Pin=R33-1
+Added Pin To Net: NetName=USART2_TX_I Pin=R33-2
+Added Pin To Net: NetName=USART2_RX Pin=R34-1
+Added Pin To Net: NetName=USART2_RX_I Pin=R34-2
+Added Pin To Net: NetName=TIM1_CH1 Pin=R35-1
+Added Pin To Net: NetName=PWMOUT_4 Pin=R35-2
+Added Pin To Net: NetName=TIM1_CH2 Pin=R36-1
+Added Pin To Net: NetName=PWMOUT_3 Pin=R36-2
+Added Pin To Net: NetName=TIM1_CH3 Pin=R37-1
+Added Pin To Net: NetName=PWMOUT_2 Pin=R37-2
+Added Pin To Net: NetName=TIM1_CH4 Pin=R38-1
+Added Pin To Net: NetName=PWMOUT_1 Pin=R38-2
+Added Pin To Net: NetName=USART4_TX Pin=R39-1
+Added Pin To Net: NetName=USART4_TX_I Pin=R39-2
+Added Pin To Net: NetName=USART4_RX Pin=R40-1
+Added Pin To Net: NetName=USART4_RX_I Pin=R40-2
+Added Pin To Net: NetName=USART3_TX Pin=R41-1
+Added Pin To Net: NetName=USART3_TX_I Pin=R41-2
+Added Pin To Net: NetName=USART3_RX Pin=R42-1
+Added Pin To Net: NetName=USART3_RX_I Pin=R42-2
+Added Pin To Net: NetName=USART5_TX Pin=R43-1
+Added Pin To Net: NetName=USART5_TX_I Pin=R43-2
+Added Pin To Net: NetName=USART5_RX Pin=R44-1
+Added Pin To Net: NetName=USART5_RX_I Pin=R44-2
+Added Pin To Net: NetName=SWDIO Pin=R45-1
+Added Pin To Net: NetName=SWDIO_I Pin=R45-2
+Added Pin To Net: NetName=SWCLK Pin=R46-1
+Added Pin To Net: NetName=SWCLK_I Pin=R46-2
+Added Pin To Net: NetName=TIM3_CH1 Pin=R47-1
+Added Pin To Net: NetName=PPM_IN Pin=R47-2
+Added Pin To Net: NetName=TIM3_CH2 Pin=R48-1
+Added Pin To Net: NetName=PWMIN_2 Pin=R48-2
+Added Pin To Net: NetName=TIM3_CH3 Pin=R49-1
+Added Pin To Net: NetName=PWMIN_3 Pin=R49-2
+Added Pin To Net: NetName=TIM3_CH4 Pin=R50-1
+Added Pin To Net: NetName=PWMIN_4 Pin=R50-2
+Added Pin To Net: NetName=TIM4_CH1 Pin=R51-1
+Added Pin To Net: NetName=PWMIN_5 Pin=R51-2
+Added Pin To Net: NetName=TIM4_CH2 Pin=R52-1
+Added Pin To Net: NetName=PWMIN_6 Pin=R52-2
+Added Pin To Net: NetName=TIM4_CH3 Pin=R53-1
+Added Pin To Net: NetName=PWMIN_7 Pin=R53-2
+Added Pin To Net: NetName=TIM4_CH4 Pin=R54-1
+Added Pin To Net: NetName=PWMIN_8 Pin=R54-2
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=GND Pin=R56-2
+Added Pin To Net: NetName=GND Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R58-2
+Added Pin To Net: NetName=GND Pin=R59-2
+Added Pin To Net: NetName=GND Pin=R60-2
+Added Pin To Net: NetName=GND Pin=R61-2
+Added Pin To Net: NetName=GND Pin=R62-2
+Added Pin To Net: NetName=VCC_3.3V Pin=S11-1
+Added Pin To Net: NetName=VCC_3.3V Pin=S11-2
+Added Pin To Net: NetName=VCC_3.3V Pin=S11-3
+Added Pin To Net: NetName=VCC_3.3V Pin=S11-4
+Added Pin To Net: NetName=SUBS_IN Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GYR_INT Pin=P2_IMU-7
+Added Pin To Net: NetName=GYR_INT Pin=U15-88
+Added Net: Name=GYR_INT
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=S11-8
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_1 Pin=R56-1
+Added Pin To Net: NetName=NetR56_1 Pin=S11-7
+Added Net: Name=NetR56_1
+Added Pin To Net: NetName=NetR57_1 Pin=R57-1
+Added Pin To Net: NetName=NetR57_1 Pin=S11-6
+Added Net: Name=NetR57_1
+Added Pin To Net: NetName=NetR58_1 Pin=R58-1
+Added Pin To Net: NetName=NetR58_1 Pin=S11-5
+Added Net: Name=NetR58_1
+Added Pin To Net: NetName=SW1 Pin=R59-1
+Added Pin To Net: NetName=SW1 Pin=U15-90
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=R60-1
+Added Pin To Net: NetName=SW2 Pin=U15-91
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=R61-1
+Added Pin To Net: NetName=SW3 Pin=U15-92
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=R62-1
+Added Pin To Net: NetName=SW4 Pin=U15-93
+Added Net: Name=SW4
+Added Pin To Net: NetName=TIM10_CH1 Pin=P2_IMU-3
+Added Pin To Net: NetName=TIM10_CH1 Pin=U15-95
+Added Net: Name=TIM10_CH1
+Added Pin To Net: NetName=USART_IMU_RX Pin=LX_IMU-8
+Added Net: Name=USART_IMU_RX
+Added Pin To Net: NetName=USART_IMU_TX Pin=LX_IMU-7
+Added Net: Name=USART_IMU_TX
+Added Member To Class: ClassName=飞控板 Member=Component H1 Header 4
+Added Member To Class: ClassName=飞控板 Member=Component H2 Header 4
+Added Member To Class: ClassName=飞控板 Member=Component H3 Header 4
+Added Member To Class: ClassName=飞控板 Member=Component LX_IMU
+Added Member To Class: ClassName=飞控板 Member=Component P2_IMU
+Added Member To Class: ClassName=飞控板 Member=Component R34 1K
+Added Member To Class: ClassName=飞控板 Member=Component R35 1K
+Added Member To Class: ClassName=飞控板 Member=Component R36 1K
+Added Member To Class: ClassName=飞控板 Member=Component R37 1K
+Added Member To Class: ClassName=飞控板 Member=Component R38 1K
+Added Member To Class: ClassName=飞控板 Member=Component R39 1K
+Added Member To Class: ClassName=飞控板 Member=Component R40 1K
+Added Member To Class: ClassName=飞控板 Member=Component R41 1K
+Added Member To Class: ClassName=飞控板 Member=Component R42 1K
+Added Member To Class: ClassName=飞控板 Member=Component R43 1K
+Added Member To Class: ClassName=飞控板 Member=Component R44 1K
+Added Member To Class: ClassName=飞控板 Member=Component R45 1K
+Added Member To Class: ClassName=飞控板 Member=Component R46 1K
+Added Member To Class: ClassName=飞控板 Member=Component R47 1K
+Added Member To Class: ClassName=飞控板 Member=Component R48 1K
+Added Member To Class: ClassName=飞控板 Member=Component R49 1K
+Added Member To Class: ClassName=飞控板 Member=Component R50 1K
+Added Member To Class: ClassName=飞控板 Member=Component R51 1K
+Added Member To Class: ClassName=飞控板 Member=Component R52 1K
+Added Member To Class: ClassName=飞控板 Member=Component R53 1K
+Added Member To Class: ClassName=飞控板 Member=Component R54 1K
+Added Member To Class: ClassName=飞控板 Member=Component R55 10K
+Added Member To Class: ClassName=飞控板 Member=Component R56 10K
+Added Member To Class: ClassName=飞控板 Member=Component R57 10K
+Added Member To Class: ClassName=飞控板 Member=Component R58 10K
+Added Member To Class: ClassName=飞控板 Member=Component R59 10K
+Added Member To Class: ClassName=飞控板 Member=Component R60 10K
+Added Member To Class: ClassName=飞控板 Member=Component R61 10K
+Added Member To Class: ClassName=飞控板 Member=Component R62 10K
+Added Member To Class: ClassName=飞控板 Member=Component S11 SW-DIP4
+Added Room: Name=飞控板

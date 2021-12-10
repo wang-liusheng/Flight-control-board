@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=Net0.1uf50v_2 Pin=0.1uf50v-2
+Removed Pin From Net: NetName=NetR2_2 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Added Component: Designator=LED1(LED-1206)
+Added Component: Designator=LED2(LED-1206)
+Added Component: Designator=LED3(LED-1206)
+Added Component: Designator=LED4(LED-1206)
+Added Component: Designator=P1(SH1.0-10P)
+Added Component: Designator=R6(0805R)
+Added Component: Designator=R7(0805R)
+Added Component: Designator=R8(0805R)
+Added Component: Designator=R9(0805R)
+Added Component: Designator=W1(W25Q32)
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=VCC_IN Pin=-1
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=Net0.1uf50v_2 Pin=0.1uf50v-2
+Added Pin To Net: NetName=VCC_5.0V Pin=0.1uf50v-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=VCC_5.0V Pin=LED2-1
+Added Pin To Net: NetName=VCC_5.0V Pin=LED3-1
+Added Pin To Net: NetName=VCC_5.0V Pin=LED4-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=VCC_5.0V Pin=P1-2
+Added Pin To Net: NetName=PPM_IN Pin=P1-3
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=VCC_2S~6S Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R6-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=LED_1 Pin=R7-2
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=R8-2
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=R9-2
+Added Net: Name=LED_3
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R6-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R7-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R8-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R9-1
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=PWMIN_2 Pin=P1-4
+Added Net: Name=PWMIN_2
+Added Pin To Net: NetName=PWMIN_3 Pin=P1-5
+Added Net: Name=PWMIN_3
+Added Pin To Net: NetName=PWMIN_4 Pin=P1-6
+Added Net: Name=PWMIN_4
+Added Pin To Net: NetName=PWMIN_5 Pin=P1-7
+Added Net: Name=PWMIN_5
+Added Pin To Net: NetName=PWMIN_6 Pin=P1-8
+Added Net: Name=PWMIN_6
+Added Pin To Net: NetName=PWMIN_7 Pin=P1-9
+Added Net: Name=PWMIN_7
+Added Pin To Net: NetName=PWMIN_8 Pin=P1-10
+Added Net: Name=PWMIN_8
+Added Pin To Net: NetName=SWCLK Pin=U10-2
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U10-4
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=·É¿Ø°å Member=Component LED1 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component LED2 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component LED3 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component LED4 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component P1 SH1.0-10P
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R6 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R7 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R8 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R9 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U? STM32F407VGT6!
+Added Member To Class: ClassName=·É¿Ø°å Member=Component W1 W25Q32

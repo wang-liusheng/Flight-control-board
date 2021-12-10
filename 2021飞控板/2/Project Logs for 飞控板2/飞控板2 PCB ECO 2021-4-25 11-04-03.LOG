@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net_1 Pin=-1
+Removed Pin From Net: NetName=Net_2 Pin=-2
+Removed Pin From Net: NetName=Net_3 Pin=-3
+Added Component: Designator=X1(Ã’¥…æß’Ò)
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=NetU15_13 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetU15_12 Pin=X1-3
+Added Member To Class: ClassName=∑…øÿ∞Â2 Member=Component X1 Ã’¥…æß’Ò

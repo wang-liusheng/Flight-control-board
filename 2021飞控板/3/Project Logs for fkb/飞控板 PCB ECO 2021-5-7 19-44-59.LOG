@@ -1,0 +1,199 @@
+Removed Pin From Net: NetName=VCC_5.0V Pin=H2-5
+Removed Pin From Net: NetName=VCC_5.0V Pin=H2-6
+Removed Pin From Net: NetName=VCC_5.0V Pin=H2-7
+Removed Pin From Net: NetName=VCC_5.0V Pin=H2-8
+Removed Pin From Net: NetName=GND Pin=H3-5
+Removed Pin From Net: NetName=GND Pin=H3-6
+Removed Pin From Net: NetName=GND Pin=H3-7
+Removed Pin From Net: NetName=GND Pin=H3-8
+Removed Pin From Net: NetName=VCC_5.0V Pin=LED2-1
+Removed Pin From Net: NetName=VCC_5.0V Pin=LED3-1
+Removed Pin From Net: NetName=VCC_5.0V Pin=LED4-1
+Removed Pin From Net: NetName=LED_1 Pin=R8-2
+Removed Pin From Net: NetName=LED_2 Pin=R9-2
+Removed Pin From Net: NetName=LED_3 Pin=R10-2
+Removed Pin From Net: NetName=USART3_RX Pin=R12-3
+Removed Pin From Net: NetName=USART3_TX Pin=R12-4
+Removed Pin From Net: NetName=USART3_TX_I Pin=R12-5
+Removed Pin From Net: NetName=USART3_RX_I Pin=R12-6
+Removed Pin From Net: NetName=VCC_IN Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Pin From Net: NetName=NetD1_1 Pin=T2-1
+Removed Pin From Net: NetName=GND Pin=T2-2
+Removed Pin From Net: NetName=NetD1_1 Pin=T3-1
+Removed Pin From Net: NetName=GND Pin=T3-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=T4-1
+Removed Pin From Net: NetName=GND Pin=T4-2
+Removed Member From Class: ClassName=·É¿Ø°å Member=LED2
+Removed Member From Class: ClassName=·É¿Ø°å Member=LED3
+Removed Member From Class: ClassName=·É¿Ø°å Member=LED4
+Removed Member From Class: ClassName=·É¿Ø°å Member=R12
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=Cap_2512
+Change Component DesignItemId : Designator=T2 Old DesignItemId= New DesignItemId=Cap_2512
+Change Component DesignItemId : Designator=T3 Old DesignItemId= New DesignItemId=Cap_2512
+Change Component DesignItemId : Designator=LED1 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R19 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R20 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=X1 Old DesignItemId= New DesignItemId=ÌÕ´É¾§Õñ
+Change Component DesignItemId : Designator=R11 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R13 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R14 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R15 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R16 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R17 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=USB Old DesignItemId=ANO New DesignItemId=ANO-USB
+Change Component DesignItemId : Designator=H1 Old DesignItemId=Header 8 New DesignItemId=Header 4
+Change Component DesignItemId : Designator=H2 Old DesignItemId=Header 8 New DesignItemId=Header 4
+Change Component DesignItemId : Designator=H3 Old DesignItemId=Header 8 New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U11 Old DesignItemId=MIC New DesignItemId=MIC5219
+Change Component DesignItemId : Designator=PWN_IN Old DesignItemId=SH1.0 New DesignItemId=SH1.0-10P
+Change Component DesignItemId : Designator=PPM Old DesignItemId=SH1. New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=SWD Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART1 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART2 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART3 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART4 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=USART5 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=VCC_IN Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U15 Old DesignItemId=STM32F407V New DesignItemId=STM32F407VGT6=
+Change Component DesignItemId : Designator=T1 Old DesignItemId=TC1 New DesignItemId=Cap_2512
+Change Component DesignItemId : Designator=T4 Old DesignItemId=TC New DesignItemId=Cap_2512
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TPS New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=W1 Old DesignItemId=W2 New DesignItemId=W25Q32
+Change Component Footprint: Designator=T2 Old Footprint=47UF16V New Footprint=2512C
+Change Component Footprint: Designator=T3 Old Footprint=47UF16V New Footprint=2512C
+Change Component Footprint: Designator=C1 Old Footprint=0805L New Footprint=2512C
+Change Component Footprint: Designator=H1 Old Footprint=HDR1X8 New Footprint=HDR1X4
+Change Component Footprint: Designator=H2 Old Footprint=HDR1X8 New Footprint=HDR1X4
+Change Component Footprint: Designator=H3 Old Footprint=HDR1X8 New Footprint=HDR1X4
+Change Component Footprint: Designator=U15 Old Footprint=STM32F407VGT6! New Footprint=STM32F407VGT6=
+Change Component Footprint: Designator=T4 Old Footprint=TC10UF New Footprint=2512C
+Change Component Footprint: Designator=T1 Old Footprint=TC100UF New Footprint=2512C
+Change Component Comment : Designator=R8 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=50R
+Change Component Comment : Designator=H1 Old Comment=Header 8 New Comment=Header 4
+Change Component Comment : Designator=H2 Old Comment=Header 8 New Comment=Header 4
+Change Component Comment : Designator=H3 Old Comment=Header 8 New Comment=Header 4
+Change Component Comment : Designator=U15 Old Comment=STM32F407VGT6! New Comment=
+Change Component Comment : Designator=T4 Old Comment=TC10UF New Comment=10uf25V
+Change Component Comment : Designator=T1 Old Comment=TC100UF New Comment=100uf25V
+Change Component Designator: OldDesignator=PPM NewDesignator=U9
+Change Component Designator: OldDesignator=PWN_IN NewDesignator=P1
+Change Component Designator: OldDesignator=SWD NewDesignator=U10
+Change Component Designator: OldDesignator=USART1 NewDesignator=U3
+Change Component Designator: OldDesignator=USART2 NewDesignator=U4
+Change Component Designator: OldDesignator=USART3 NewDesignator=U5
+Change Component Designator: OldDesignator=USART4 NewDesignator=U6
+Change Component Designator: OldDesignator=USART5 NewDesignator=U7
+Change Component Designator: OldDesignator=USB NewDesignator=U2
+Change Component Designator: OldDesignator=VCC_IN NewDesignator=U8
+Change Component Description : Designator=R2 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R3 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R4 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R5 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R6 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R7 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R8 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R9 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R10 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R18 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R19 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=R20 Old Description= New Description=0805ÌùÆ¬µç×è
+Change Component Description : Designator=H4 Old Description= New Description=Header, 8-Pin
+Change Component Description : Designator=L1 Old Description= New Description=INDUCTOR
+Change Component Description : Designator=C2 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C3 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C4 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C5 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C6 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C7 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=C8 Old Description= New Description=ÎÞ¼«ÐÔµçÈÝ
+Change Component Description : Designator=D1 Old Description= New Description=ÌùÆ¬Ð¤ÌØ»ù¶þ¼«¹Ü
+Change Component Description : Designator=D2 Old Description= New Description=ÌùÆ¬Ð¤ÌØ»ù¶þ¼«¹Ü
+Change Component Description : Designator=D3 Old Description= New Description=ÌùÆ¬Ð¤ÌØ»ù¶þ¼«¹Ü
+Change Component Library : Designator=X1 Old Library=ÌÕ´É¾§Õñ New Library=ÌÕ´É¾§Õñ.IntLib
+Added Component: Designator=Q1(SI2310)
+Added Component: Designator=Q2(SI2310)
+Added Component: Designator=Q3(SI2310)
+Added Component: Designator=R25(0805R)
+Added Component: Designator=R26(0805R)
+Added Component: Designator=R27(0805R)
+Added Component: Designator=R28(0805R)
+Added Component: Designator=R29(0805R)
+Added Component: Designator=R30(0805R)
+Added Component: Designator=RGB(RGB_LED)
+Added Pin To Net: NetName=LED_1 Pin=R9-1
+Added Pin To Net: NetName=USART3_RX Pin=R14-3
+Added Pin To Net: NetName=USART3_TX Pin=R14-4
+Added Pin To Net: NetName=USART3_TX_I Pin=R14-5
+Added Pin To Net: NetName=USART3_RX_I Pin=R14-6
+Added Pin To Net: NetName=LED_2 Pin=R27-1
+Added Pin To Net: NetName=LED_3 Pin=R30-1
+Added Pin To Net: NetName=VCC_5.0V Pin=RGB-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=VCC_IN Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=NetD1_1 Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=NetD1_1 Pin=T3-2
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=VCC_3.3V Pin=T4-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R8-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R9-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R8-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R26-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R27-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R28-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R28-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R25-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R29-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R30-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R29-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R10-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=RGB-6
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=RGB-4
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=RGB-2
+Added Net: Name=NetR26_1
+Added Member To Class: ClassName=·É¿Ø°å Member=Component Q1 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component Q2 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component Q3 
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R25 50R
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R26 50R
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R27 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R28 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R29 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R30 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component RGB 

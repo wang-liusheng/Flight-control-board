@@ -1,0 +1,41 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~fkb.PrjPCB|ReportField=ProjectFullPath~F:\四轴\转接板合集\19飞控板\4-四层板\fkb.PrjPCB|ReportField=Title~Bill of Materials For Project [fkb.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~72|ReportField=ReportTime~14:24:35|ReportField=ReportDate~2021/9/11|ReportField=ReportDateTime~2021/9/11 14:24:35|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2021/9/11|ReportField=CurrentTime~14:24:32|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\四轴\转接板合集\19飞控板\4-四层板\飞控板.SchDoc|ReportField=DocumentName~飞控板.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2021/8/1|ReportField=Organization~|ReportField=ProjectName~fkb.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~fkb.PrjPCB|ReportField=DataSourceFullPath~F:\四轴\转接板合集\19飞控板\4-四层板\fkb.PrjPCB
+10NF50V|无极性电容|C1|0805C|CAP|1
+0.1uf50v|无极性电容|C2, C3, C6, C7, C8|0805C|CAP|5
+4.7uf16v|无极性电容|C4|0805C|CAP|1
+1uf10v|无极性电容|C5|0805C|CAP|1
+1N5819|贴片肖特基二极|D1, D2, D3|DO214AC_SMA|1N5817-5819SMD|3
+Header 4|Header, 4-Pin|H1, H2, H3|HDR1X4|Header 4|3
+Header 8|Header, 8-Pin|H4|HDR1X8|Header 8|1
+CD54-22UH2A|INDUCTOR|L1|CDRH73|INDUCTOR|1
+||LED1|LED-1206|LED1206|1
+LX_IMU||LX_IMU|LX_IMU|LX_IMU|1
+SH1.0-10P||P1|SH1.0-10P|SH1.0-10P|1
+P2_IMU||P2_IMU|P2_IMU|Component_1|1
+||Q1, Q2, Q3, Q4|SI2310|SI2310|4
+50K|0805贴片电阻|R2|0805R|Res_0805|1
+15K|0805贴片电阻|R3|0805R|Res_0805|1
+10K|0805贴片电阻|R4, R8, R18, R19, R28, R29, R31, R32, R33|0805R|Res_0805|9
+1K|0805贴片电阻|R5, R6, R7, R9, R27, R30|0805R|Res_0805|6
+50R|0805贴片电阻|R10, R25, R26|0805R|Res_0805|3
+1k0603||R11, R13, R14, R15, R16, R17|1k0603|1k0603|6
+4.3K|0805贴片电阻|R20|0805R|Res_0805|1
+|RGB|RGB|RGB_LED|RGB|1
+sh1.0-6p||sh1.0-6p|sh1.0-6p|sh1.0-6p|1
+100UF25V|无极性电容|T1|0805C|CAP|1
+47UF16V|无极性电容|T2, T3|0805C|CAP|2
+10UF25V|无极性电容|T4|0805C|CAP|1
+TPS5430||U1|TPS5430|TPS5430|1
+ANO-USB||U2|ANO-USB|ANO-USB|1
+USART1||U3|SH1.0-4P|SH1.0-4P|1
+USART2||U4|SH1.0-4P|SH1.0-4P|1
+USART3||U5|SH1.0-4P|SH1.0-4P|1
+USART4||U6|SH1.0-4P|SH1.0-4P|1
+USART5||U7|SH1.0-4P|SH1.0-4P|1
+SBUS||U8|SH1.0-3P|SH1.0-3P|1
+PPM||U9|SH1.0-3P|SH1.0-3P|1
+SWD||U10|SH1.0-4P|SH1.0-4P|1
+MIC5219||U11|MIC5219|MIC5219|1
+||U15|STM32F407VGT6=|STM32F407VGT6=|1
+LX_IMU||U16|SH1.0-4P|SH1.0-4P|1
+W25Q32||W1|W25Q32|W25Q32|1
+陶瓷晶振||X1|陶瓷晶振|陶瓷晶振|1

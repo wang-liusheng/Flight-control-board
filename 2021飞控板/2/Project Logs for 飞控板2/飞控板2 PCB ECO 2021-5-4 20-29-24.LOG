@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=VCC_3.3V Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=NetC8_1 Pin=R31-1
+Removed Pin From Net: NetName=VCC_3.3V Pin=R31-2
+Removed Pin From Net: NetName=NetC8_1 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Member From Class: ClassName=飞控板2 Member=C9
+Removed Member From Class: ClassName=飞控板2 Member=C10
+Removed Member From Class: ClassName=飞控板2 Member=C11
+Removed Member From Class: ClassName=飞控板2 Member=C12
+Removed Member From Class: ClassName=飞控板2 Member=C13
+Removed Member From Class: ClassName=飞控板2 Member=C14
+Removed Member From Class: ClassName=飞控板2 Member=C15
+Removed Member From Class: ClassName=飞控板2 Member=C16
+Removed Member From Class: ClassName=飞控板2 Member=R31
+Removed Member From Class: ClassName=飞控板2 Member=S1
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T1 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T2 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=T3 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=LED1 Old DesignItemId= New DesignItemId=LED1206
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R19 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R20 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R25 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R26 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R27 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R28 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R29 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=R30 Old DesignItemId= New DesignItemId=Res_0805
+Change Component DesignItemId : Designator=X1 Old DesignItemId= New DesignItemId=陶瓷晶振
+Change Component DesignItemId : Designator=R11 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R12 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R13 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R15 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R16 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R17 Old DesignItemId=1k New DesignItemId=1k0603
+Change Component DesignItemId : Designator=D1 Old DesignItemId=1N5817 New DesignItemId=1N5817-5819SMD
+Change Component DesignItemId : Designator=D2 Old DesignItemId=1N5817 New DesignItemId=1N5817-5819SMD
+Change Component DesignItemId : Designator=D3 Old DesignItemId=1N5817 New DesignItemId=1N5817-5819SMD
+Change Component DesignItemId : Designator=U2 Old DesignItemId=ANO New DesignItemId=ANO-USB
+Change Component DesignItemId : Designator=U11 Old DesignItemId=MIC New DesignItemId=MIC5219
+Change Component DesignItemId : Designator=P1 Old DesignItemId=SH1.0 New DesignItemId=SH1.0-10P
+Change Component DesignItemId : Designator=U9 Old DesignItemId=SH1. New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=SWD Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U3 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U4 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U5 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U6 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U7 Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=VCC_IN Old DesignItemId=SH1. New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=SI New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=SI New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=SI New DesignItemId=SI2310
+Change Component DesignItemId : Designator=U15 Old DesignItemId=STM32F407VGT6 New DesignItemId=STM32F407VGT6=
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TPS New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=W1 Old DesignItemId=W2 New DesignItemId=W25Q32
+Change Component Footprint: Designator=U15 Old Footprint=STM32F407VGT6-ANO New Footprint=STM32F407VGT6=
+Change Component Designator: OldDesignator=SWD NewDesignator=U10
+Change Component Designator: OldDesignator=VCC_IN NewDesignator=U8
+Change Component Description : Designator=R2 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R3 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R4 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R5 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R6 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R7 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R8 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R9 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R10 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R18 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R19 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R20 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R25 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R26 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R27 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R28 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R29 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R30 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=C1 Old Description= New Description=无极性电容
+Change Component Description : Designator=C2 Old Description= New Description=无极性电容
+Change Component Description : Designator=C5 Old Description= New Description=无极性电容
+Change Component Description : Designator=C6 Old Description= New Description=无极性电容
+Change Component Description : Designator=C7 Old Description= New Description=无极性电容
+Change Component Description : Designator=C8 Old Description= New Description=无极性电容
+Change Component Description : Designator=T1 Old Description= New Description=无极性电容
+Change Component Description : Designator=T2 Old Description= New Description=无极性电容
+Change Component Description : Designator=T3 Old Description= New Description=无极性电容
+Change Component Description : Designator=D1 Old Description= New Description=贴片肖特基二极管
+Change Component Description : Designator=D2 Old Description= New Description=贴片肖特基二极管
+Change Component Description : Designator=D3 Old Description= New Description=贴片肖特基二极管
+Change Component Library : Designator=LED1 Old Library=1.二极? New Library=1.二极管.IntLib
+Change Component Library : Designator=X1 Old Library=? New Library=陶瓷晶振.IntLib

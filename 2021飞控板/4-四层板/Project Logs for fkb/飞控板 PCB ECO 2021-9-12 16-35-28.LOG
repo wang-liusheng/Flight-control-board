@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=SUBS_IN Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-3
+Added Component: Designator=LX_IMU(LX_IMU)
+Added Component: Designator=P2_IMU(P2_IMU)
+Added Pin To Net: NetName=GND Pin=LX_IMU-1
+Added Pin To Net: NetName=VCC_5.0V Pin=LX_IMU-2
+Added Pin To Net: NetName=OTG_FS_DM Pin=LX_IMU-3
+Added Pin To Net: NetName=OTG_FS_DP Pin=LX_IMU-4
+Added Pin To Net: NetName=USART5_TX_I Pin=LX_IMU-5
+Added Pin To Net: NetName=USART5_RX_I Pin=LX_IMU-6
+Added Pin To Net: NetName=USART_IMU_TX Pin=LX_IMU-7
+Added Pin To Net: NetName=USART_IMU_RX Pin=LX_IMU-8
+Added Pin To Net: NetName=GND Pin=P2_IMU-1
+Added Pin To Net: NetName=VCC_5.0V Pin=P2_IMU-2
+Added Pin To Net: NetName=TIM10_CH1 Pin=P2_IMU-3
+Added Pin To Net: NetName=SPI2_MOSI Pin=P2_IMU-4
+Added Pin To Net: NetName=SPI2_MISO Pin=P2_IMU-5
+Added Pin To Net: NetName=SPI2_CLK Pin=P2_IMU-6
+Added Pin To Net: NetName=GYR_INT Pin=P2_IMU-7
+Added Pin To Net: NetName=SPI2_CS1 Pin=P2_IMU-8
+Added Pin To Net: NetName=SPI2_CS2 Pin=P2_IMU-9
+Added Pin To Net: NetName=SPI2_CS3 Pin=P2_IMU-10
+Added Pin To Net: NetName=SPI2_NSS Pin=P2_IMU-11
+Added Pin To Net: NetName=GND Pin=P2_IMU-12
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=SUBS_IN Pin=U8-3
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R31 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R32 1K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R33 1K

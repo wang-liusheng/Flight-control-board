@@ -1,0 +1,4 @@
+Added Component: Designator=U4(SH1.0-4P)
+Added Pin To Net: NetName=VCC_5.0V Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U4 USART2

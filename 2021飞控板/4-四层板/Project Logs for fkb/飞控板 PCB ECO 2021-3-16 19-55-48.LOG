@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetR13_2 Pin=R13-2
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Pin To Net: NetName=BOOT1 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=TIM1_CH1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=TIM1_CH2 Pin=R13-2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U9 PPM

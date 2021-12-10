@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=VCC_2S~6S Pin=U8-1
+Removed Pin From Net: NetName=VCC_2S~6S Pin=U8-2
+Removed Pin From Net: NetName=GND Pin=U8-4
+Change Component DesignItemId : Designator=X1 Old DesignItemId= New DesignItemId=陶瓷晶振
+Change Component DesignItemId : Designator=R11 Old DesignItemId=1k06 New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R13 Old DesignItemId=1k06 New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R14 Old DesignItemId=1k06 New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R15 Old DesignItemId=1k06 New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R16 Old DesignItemId=1k06 New DesignItemId=1k0603
+Change Component DesignItemId : Designator=R17 Old DesignItemId=1k06 New DesignItemId=1k0603
+Change Component DesignItemId : Designator=U2 Old DesignItemId=ANO-U New DesignItemId=ANO-USB
+Change Component DesignItemId : Designator=LED1 Old DesignItemId=LED New DesignItemId=LED1206
+Change Component DesignItemId : Designator=U11 Old DesignItemId=MIC52 New DesignItemId=MIC5219
+Change Component DesignItemId : Designator=P1 Old DesignItemId=SH1.0-1 New DesignItemId=SH1.0-10P
+Change Component DesignItemId : Designator=U8 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=U9 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-3P
+Change Component DesignItemId : Designator=U3 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U4 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U5 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U6 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U7 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=U10 Old DesignItemId=SH1.0- New DesignItemId=SH1.0-4P
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=SI23 New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=SI23 New DesignItemId=SI2310
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=SI23 New DesignItemId=SI2310
+Change Component DesignItemId : Designator=U15 Old DesignItemId=STM32F407VGT New DesignItemId=STM32F407VGT6=
+Change Component DesignItemId : Designator=U1 Old DesignItemId=TPS54 New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=W1 Old DesignItemId=W25Q New DesignItemId=W25Q32
+Change Component Footprint: Designator=U8 Old Footprint=SH1.0-4P New Footprint=SH1.0-3P
+Change Component Comment : Designator=U8 Old Comment= New Comment=SBUS
+Change Component Description : Designator=R2 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R3 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R4 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R5 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R6 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R7 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R8 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R9 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R10 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R18 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R19 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R20 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R25 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R26 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R27 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R28 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R29 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=R30 Old Description= New Description=0805贴片电阻
+Change Component Description : Designator=C1 Old Description= New Description=无极性电容
+Change Component Description : Designator=T1 Old Description= New Description=无极性电容
+Change Component Description : Designator=T2 Old Description= New Description=无极性电容
+Change Component Description : Designator=T3 Old Description= New Description=无极性电容
+Change Component Description : Designator=T4 Old Description= New Description=无极性电容
+Change Component Description : Designator=H4 Old Description=Heade New Description=Header, 8-Pin
+Change Component Description : Designator=L1 Old Description=IN New Description=INDUCTOR
+Change Component Description : Designator=C2 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=C3 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=C4 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=C5 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=C6 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=C7 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=C8 Old Description=无 New Description=无极性电容
+Change Component Description : Designator=D1 Old Description=贴? New Description=贴片肖特基二极管
+Change Component Description : Designator=D2 Old Description=贴? New Description=贴片肖特基二极管
+Change Component Description : Designator=D3 Old Description=贴? New Description=贴片肖特基二极管
+Added Component: Designator=Q4(SI2310)
+Added Component: Designator=R31(0805R)
+Added Component: Designator=R32(0805R)
+Added Component: Designator=R33(0805R)
+Added Component: Designator=sh1.0-6p(sh1.0-6p)
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=PWMIN_2 Pin=Q4-3
+Added Pin To Net: NetName=VCC_5.0V Pin=R31-1
+Added Pin To Net: NetName=PWMIN_2 Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=VCC_2S~6S Pin=sh1.0-6p-1
+Added Pin To Net: NetName=VCC_2S~6S Pin=sh1.0-6p-2
+Added Pin To Net: NetName=VCC_2S~6S Pin=sh1.0-6p-3
+Added Pin To Net: NetName=GND Pin=sh1.0-6p-4
+Added Pin To Net: NetName=GND Pin=sh1.0-6p-5
+Added Pin To Net: NetName=GND Pin=sh1.0-6p-6
+Added Pin To Net: NetName=VCC_5.0V Pin=U8-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R32-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R33-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=SUBS_IN Pin=R32-1
+Added Pin To Net: NetName=SUBS_IN Pin=U8-1
+Added Net: Name=SUBS_IN
+Added Member To Class: ClassName=飞控板 Member=Component Q4 
+Added Member To Class: ClassName=飞控板 Member=Component R31 10K
+Added Member To Class: ClassName=飞控板 Member=Component R32 10K
+Added Member To Class: ClassName=飞控板 Member=Component R33 10K
+Added Member To Class: ClassName=飞控板 Member=Component sh1.0-6p

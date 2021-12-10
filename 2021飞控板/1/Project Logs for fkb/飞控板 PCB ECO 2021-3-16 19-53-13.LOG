@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BOOT1 Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Change Component Designator: OldDesignator=U9 NewDesignator=U15
+Added Pin To Net: NetName=BOOT1 Pin=R12-1
+Added Pin To Net: NetName=USART3_TX Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=USART3_RX Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component C8 0.1uf50v
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R3 15K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U15 STM32F407VGT6!

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=BOOT1 Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R12-2
+Change Component Footprint: Designator=C1 Old Footprint=0805R New Footprint=2512C
+Change Component Designator: OldDesignator=R11 NewDesignator=R20
+Change Component Designator: OldDesignator=R12 NewDesignator=R18
+Change Component Designator: OldDesignator=R13 NewDesignator=R19
+Added Pin To Net: NetName=USART3_TX Pin=R12-1
+Added Pin To Net: NetName=USART3_RX Pin=R12-2
+Added Pin To Net: NetName=BOOT1 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U15-94
+Added Net: Name=NetR19_2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R18 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R19 10K
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R20 4.3K

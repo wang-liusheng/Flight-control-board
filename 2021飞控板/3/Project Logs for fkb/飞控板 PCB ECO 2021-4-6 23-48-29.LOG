@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=USART2_RX_I Pin=R11-5
+Removed Pin From Net: NetName=USART2_TX_I Pin=R11-6
+Removed Pin From Net: NetName=USART1_RX_I Pin=R11-7
+Removed Pin From Net: NetName=USART1_TX_I Pin=R11-8
+Change Component Footprint: Designator=C1 Old Footprint=0805L New Footprint=2512C
+Added Pin To Net: NetName=USART1_TX_I Pin=R11-5
+Added Pin To Net: NetName=USART1_RX_I Pin=R11-6
+Added Pin To Net: NetName=USART2_TX_I Pin=R11-7
+Added Pin To Net: NetName=USART2_RX_I Pin=R11-8
+Added Member To Class: ClassName=·É¿Ø°å Member=Component R11 1k0603

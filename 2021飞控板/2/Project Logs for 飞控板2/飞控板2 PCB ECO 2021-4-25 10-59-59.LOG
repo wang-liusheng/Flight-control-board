@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=Net_1 Pin=-1
+Removed Pin From Net: NetName=Net_2 Pin=-2
+Removed Pin From Net: NetName=Net_3 Pin=-3
+Added Component: Designator=R11(1k0603)
+Added Component: Designator=R12(1k0603)
+Added Component: Designator=R13(1k0603)
+Added Component: Designator=R15(1k0603)
+Added Component: Designator=R16(1k0603)
+Added Component: Designator=R17(1k0603)
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=USART2_RX Pin=R11-1
+Added Pin To Net: NetName=USART2_TX Pin=R11-2
+Added Pin To Net: NetName=USART1_RX Pin=R11-3
+Added Pin To Net: NetName=USART1_TX Pin=R11-4
+Added Pin To Net: NetName=USART1_TX_I Pin=R11-5
+Added Pin To Net: NetName=USART1_RX_I Pin=R11-6
+Added Pin To Net: NetName=USART2_TX_I Pin=R11-7
+Added Pin To Net: NetName=USART2_RX_I Pin=R11-8
+Added Pin To Net: NetName=USART4_RX Pin=R12-1
+Added Pin To Net: NetName=USART4_TX Pin=R12-2
+Added Pin To Net: NetName=USART3_RX Pin=R12-3
+Added Pin To Net: NetName=USART3_TX Pin=R12-4
+Added Pin To Net: NetName=USART3_TX_I Pin=R12-5
+Added Pin To Net: NetName=USART3_RX_I Pin=R12-6
+Added Pin To Net: NetName=USART4_TX_I Pin=R12-7
+Added Pin To Net: NetName=USART4_RX_I Pin=R12-8
+Added Pin To Net: NetName=TIM1_CH4 Pin=R13-1
+Added Pin To Net: NetName=TIM1_CH3 Pin=R13-2
+Added Pin To Net: NetName=TIM1_CH2 Pin=R13-3
+Added Pin To Net: NetName=TIM1_CH1 Pin=R13-4
+Added Pin To Net: NetName=PWMOUT_4 Pin=R13-5
+Added Pin To Net: NetName=PWMOUT_3 Pin=R13-6
+Added Pin To Net: NetName=PWMOUT_2 Pin=R13-7
+Added Pin To Net: NetName=PWMOUT_1 Pin=R13-8
+Added Pin To Net: NetName=SWCLK Pin=R15-1
+Added Pin To Net: NetName=SWDIO Pin=R15-2
+Added Pin To Net: NetName=USART5_RX Pin=R15-3
+Added Pin To Net: NetName=USART5_TX Pin=R15-4
+Added Pin To Net: NetName=USART5_TX_I Pin=R15-5
+Added Pin To Net: NetName=USART5_RX_I Pin=R15-6
+Added Pin To Net: NetName=SWDIO_I Pin=R15-7
+Added Pin To Net: NetName=SWCLK_I Pin=R15-8
+Added Pin To Net: NetName=TIM3_CH4 Pin=R16-1
+Added Pin To Net: NetName=TIM3_CH3 Pin=R16-2
+Added Pin To Net: NetName=TIM3_CH2 Pin=R16-3
+Added Pin To Net: NetName=TIM3_CH1 Pin=R16-4
+Added Pin To Net: NetName=PPM_IN Pin=R16-5
+Added Pin To Net: NetName=PWMIN_2 Pin=R16-6
+Added Pin To Net: NetName=PWMIN_3 Pin=R16-7
+Added Pin To Net: NetName=PWMIN_4 Pin=R16-8
+Added Pin To Net: NetName=TIM4_CH4 Pin=R17-1
+Added Pin To Net: NetName=TIM4_CH3 Pin=R17-2
+Added Pin To Net: NetName=TIM4_CH2 Pin=R17-3
+Added Pin To Net: NetName=TIM4_CH1 Pin=R17-4
+Added Pin To Net: NetName=PWMIN_5 Pin=R17-5
+Added Pin To Net: NetName=PWMIN_6 Pin=R17-6
+Added Pin To Net: NetName=PWMIN_7 Pin=R17-7
+Added Pin To Net: NetName=PWMIN_8 Pin=R17-8
+Added Member To Class: ClassName=·É¿Ø°å2 Member=Component R11 1k0603
+Added Member To Class: ClassName=·É¿Ø°å2 Member=Component R12 1k0603
+Added Member To Class: ClassName=·É¿Ø°å2 Member=Component R13 1k0603
+Added Member To Class: ClassName=·É¿Ø°å2 Member=Component R15 1k0603
+Added Member To Class: ClassName=·É¿Ø°å2 Member=Component R16 1k0603
+Added Member To Class: ClassName=·É¿Ø°å2 Member=Component R17 1k0603

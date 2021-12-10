@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=SBUS-1
+Removed Pin From Net: NetName=VCC_5.0V Pin=SBUS-2
+Removed Pin From Net: NetName=SUBS_IN Pin=SBUS-3
+Removed Pin From Net: NetName=VCC_3.3V Pin=U10-1
+Removed Pin From Net: NetName=SWCLK_I Pin=U10-2
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=SWDIO_I Pin=U10-4
+Removed Member From Class: ClassName=·É¿Ø°å Member=SBUS
+Change Component Designator: OldDesignator=VCC_IN NewDesignator=sh1.0-6p
+Added Component: Designator=U8(SH1.0-3P)
+Added Pin To Net: NetName=SUBS_IN Pin=U8-1
+Added Pin To Net: NetName=VCC_5.0V Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=SWDIO_I Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=SWCLK_I Pin=U10-3
+Added Pin To Net: NetName=VCC_3.3V Pin=U10-4
+Added Member To Class: ClassName=·É¿Ø°å Member=Component U8 SBUS

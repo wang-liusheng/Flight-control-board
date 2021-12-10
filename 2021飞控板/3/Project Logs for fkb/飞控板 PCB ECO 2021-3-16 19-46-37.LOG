@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=Net0.1uf50v_1 Pin=0.1uf50v-1
+Removed Pin From Net: NetName=VCC_5.0V Pin=0.1uf50v-2
+Removed Pin From Net: NetName=VCC_2S~6S Pin=R3-1
+Removed Pin From Net: NetName=BOOT1 Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Change Component Comment : Designator=0.1uf50v Old Comment=C5 New Comment=C6
+Change Component Comment : Designator=0.1uf50v Old Comment=C6 New Comment=C7
+Change Component Comment : Designator=0.1uf50v Old Comment=C7 New Comment=C8
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=Net0.1uf50v_1 Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-2
+Added Pin To Net: NetName=Net0.1uf50v_2 Pin=0.1uf50v-2
+Added Pin To Net: NetName=VCC_5.0V Pin=0.1uf50v-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=VCC_2S~6S Pin=R4-1
+Added Pin To Net: NetName=USART1_TX Pin=R11-1
+Added Pin To Net: NetName=USART1_RX Pin=R11-2
+Added Pin To Net: NetName=BOOT1 Pin=R12-1
+Added Pin To Net: NetName=USART3_TX Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=USART3_RX Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Pin To Net: NetName=NetR4_2 Pin=R6-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U9-94
+Added Net: Name=NetR13_2
+Added Member To Class: ClassName=·É¿Ø°å Member=Component T4 TC10UF

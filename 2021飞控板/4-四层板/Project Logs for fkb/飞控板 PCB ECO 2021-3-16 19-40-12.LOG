@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=Net0.1uf50v_1 Pin=0.1uf50v-1
+Removed Pin From Net: NetName=VCC_5.0V Pin=0.1uf50v-2
+Removed Pin From Net: NetName=VCC_2S~6S Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Member From Class: ClassName=·É¿Ø°å Member=U?
+Change Component Designator: OldDesignator= NewDesignator=T1
+Change Component Designator: OldDesignator= NewDesignator=T2
+Change Component Designator: OldDesignator= NewDesignator=T3
+Change Component Designator: OldDesignator= NewDesignator=T4
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-1
+Added Pin To Net: NetName=Net0.1uf50v_1 Pin=0.1uf50v-1
+Added Pin To Net: NetName=GND Pin=0.1uf50v-2
+Added Pin To Net: NetName=Net0.1uf50v_2 Pin=0.1uf50v-2
+Added Pin To Net: NetName=VCC_5.0V Pin=0.1uf50v-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=VCC_2S~6S Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=BOOT1 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=Net_1 Pin=T2-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=Net_1 Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T3-2
+Added Pin To Net: NetName=VCC_3.3V Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-2
+Change Net Name : Old Net Name=Net_1 New Net Name=NetD1_1
+Added Member To Class: ClassName=·É¿Ø°å Member=Component T1 TC100UF
+Added Member To Class: ClassName=·É¿Ø°å Member=Component T2 47UF16V
+Added Member To Class: ClassName=·É¿Ø°å Member=Component T3 47UF16V

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PPM_IN Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=VCC_5.0V Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=VCC_5.0V Pin=U9-2
+Added Pin To Net: NetName=PPM_IN Pin=U9-3
